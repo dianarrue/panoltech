@@ -14,7 +14,7 @@ se ha construido la base de datos y se manteine en funcionamiento estable casi t
 Requisitos del Entorno de Desarrollo:
 Para contribuir al desarrollo de PañolTech, asegúrate de contar con el siguiente entorno de desarrollo:
 
-IDE: Se recomienda el uso de Netbeans para el desarrollo del sistema.
+IDE: Se recomienda el uso de Visual code para el desarrollo del sistema.
 Herramientas de Base de Datos: SQLyog y MySQL Server para el manejo eficiente de la base de datos.
 Entorno Web: WampServer o XAMPP para crear un entorno de desarrollo web en Windows.
 Guía para la Instalación y Funcionamiento:
@@ -28,7 +28,7 @@ cd panoltech
 
 Configurar el Entorno:
 
-Instalar Netbeans, SQLyog, WampServer (o XAMPP) según los requisitos.
+Instalar Visual code, SQLyog, WampServer (o XAMPP) según los requisitos.
 Configurar la base de datos MySQL con la información proporcionada en la documentación.
 
 Instalar Dependencias:
